@@ -1,2 +1,2 @@
-# botkit-01
+# platform-01
 Original project
